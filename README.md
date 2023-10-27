@@ -1,20 +1,21 @@
-# SNP Genotype data of  hybrid zone between Mytilus chilensis and M. platensis in southern South America (the Strait of Magellan, Isla Grande de Tierra del Fuego, and the Falkland Islands)
+# SNP Genotype data of  hybrid zone between *Mytilus chilensis* and *M. platensis* in southern South America (the Strait of Magellan, Isla Grande de Tierra del Fuego, and the Falkland Islands)
 
 Reference samples:
 
 Species  Code  Location  Country  N°_Individuals
 
-M. chilensis  CHCL  Chiloé  Chile  29
+*M. chilensis*  CHCL  Chiloé  Chile  29
 
-M. edulis  IRUS  Indian River  USA  26
+*M. edulis*  IRUS  Indian River  USA  26
 
-M. galloprovincialis  ORIT  Oristano  Italy  29
+*M. galloprovincialis*  ORIT  Oristano  Italy  29
 
-M. planulatus  AKNZ  Akaroa South Island  New Zealand 30
+*M. planulatus*  AKNZ  Akaroa South Island  New Zealand 30
 
-M. platensis  CRAR  Comodoro Rivadavia  Argentina  35
+*M. platensis*  CRAR  Comodoro Rivadavia  Argentina  35
 
-M. trossulus  VNCA  Vancouver  Canada  19
+*M. trossulus*  VNCA  Vancouver  Canada  19
+
 
 Samples from Patagonia:
 
